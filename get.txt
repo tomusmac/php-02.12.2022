@@ -1,0 +1,4 @@
+ID: 1 IMIE: Anna NAZWISKO: Kowalska 
+ID: 2 IMIE: Jan NAZWISKO: Kowalski 
+ID: 3 IMIE: Jan NAZWISKO: Nowak 
+ID: 4 IMIE: Katarzyna NAZWISKO: Nowak 
